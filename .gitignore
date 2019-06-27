@@ -52,3 +52,7 @@ Mkfile.old
 dkms.conf
 /Debug/
 /Release/
+
+.settings/language.settings.xml 
+.settings/ 
+**/.settings/**
