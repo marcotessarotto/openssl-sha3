@@ -3,7 +3,7 @@ example program which uses openssl implementation of SHA-3.
 
 SHA-3 (Secure Hash Algorithm 3) is the latest member of the Secure Hash Algorithm family of standards, released by NIST.
 
-This program reads data from stdin and on EOF produces the digest.
+This program reads data from stdin and on EOF produces the SHA-3 digest.
 
 It has a command line parameter (-t) which allows to specify the digest lenght in bits. Default value is 256. Valid values are: 224, 256, 384, 512.
 
